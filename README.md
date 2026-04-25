@@ -1,3 +1,6 @@
+<img width="1773" height="812" alt="image" src="https://github.com/user-attachments/assets/9dce84a3-4e51-4a4b-8178-2cde2728a998" />
+
+
 # \# Projeto Meu Currículo Blazor
 
 # 
