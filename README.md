@@ -71,14 +71,6 @@
 
 # \- Navegação simplificada
 
-# 
-
-# \## Screenshot
-
-# (Adicionar imagem da aplicação aqui)
-
-# 
-
 # \## Heurística - Ajuda e Documentação
 
 # A aplicação foi construída com navegação simples, foco na tarefa do usuário e documentação para facilitar execução e entendimento do projeto.
